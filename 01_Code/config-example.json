@@ -1,0 +1,27 @@
+{
+  "DEFAULT": {
+    "epc_path": "",
+    "polygon_path": "",
+    "epc_fname_suffix": ".csv",
+    "epc_output_fname": "",
+    "processing_path": "",
+    "epc_wales_fname": ".csv",
+    "epc_train_fname": ".csv",
+    "epc_test_fname": ".csv",
+    "epc_train_clean_fname": ".csv",
+    "epc_test_clean_fname": ".csv",
+    "epc_train_dd_fname": ".csv",
+    "epc_test_dd_fname": ".csv",
+    "epc_train_domain_fname": ".csv",
+    "epc_test_domain_fname": ".csv",
+    "epc_train_ex_fname": ".csv",
+    "epc_test_ex_fname": ".csv",
+    "buildings_fname": ".csv",
+    "polygon_fname": ".geojson",
+    "uprn_lookup_fname": ".csv",
+    "lad_lookup_fname": ".csv",
+    "building_height_fname": ".csv",
+    "built_form_fname": ".csv",
+    "polygon_features_fname": ".csv"
+  }
+}
